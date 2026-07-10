@@ -74,7 +74,7 @@ ul li a{
 /* nav section is end   */
 /** hero banner section is start :  */
 
-.hero-section{
+#hero-section{
 background-image: url('/image/banner.jpg');
 
 }
