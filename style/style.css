@@ -75,7 +75,7 @@ ul li a{
 /** hero banner section is start :  */
 
 .hero-section{
-
+background-image: url('/image/banner.jpg');
 
 }
 
@@ -108,7 +108,7 @@ ul li a{
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    background-image: url('/image/banner.jpg');
+    
   
 }
 
